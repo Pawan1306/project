@@ -1,0 +1,48 @@
+#project-1 {
+    background-image: url('https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+    background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 100px;
+  color: orangered;
+}
+
+#project-2 {
+    color: orangered;
+   
+    font-family: 'Arial', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+}
+
+#project-3 {
+   
+        font-family: 'Arial', sans-serif;
+        font-size: 200px;
+        margin-bottom: 30px;
+        line-height: 1.5;
+      }
+}
+
+#project-4 {
+    background-color: #ff6600;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 15px;
+    border-radius: 15px;
+    text-transform: uppercase;
+   
+}
+#project-4:hover {
+    background-color: #ff4500;
+  }
+ 
+  project-4:hover {
+  cursor: pointer;
+  }
